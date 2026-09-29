@@ -1,0 +1,42 @@
+{
+  "id": "/",
+  "name": "Ngo Huu Loc — Portfolio",
+  "short_name": "NHL.dev",
+  "description": "Nick · Full-Stack Engineer, UI/UX Craftsman, Systems Architect. Based in Vietnam.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#04060f",
+  "theme_color": "#00d4ff",
+  "orientation": "portrait-primary",
+  "lang": "en",
+  "categories": ["portfolio", "developer", "technology"],
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"      },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"      },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    {
+      "name": "GitHub Stats",
+      "short_name": "GitHub",
+      "url": "/#github",
+      "description": "Live GitHub activity",
+      "icons": [{ "src": "/icon-96.png", "sizes": "96x96", "type": "image/png" }]
+    },
+    {
+      "name": "What I'm Doing Now",
+      "short_name": "/now",
+      "url": "/now",
+      "description": "My current focus",
+      "icons": [{ "src": "/icon-96.png", "sizes": "96x96", "type": "image/png" }]
+    },
+    {
+      "name": "Terminal",
+      "short_name": "Terminal",
+      "url": "/#terminal-sec",
+      "description": "Interactive terminal",
+      "icons": [{ "src": "/icon-96.png", "sizes": "96x96", "type": "image/png" }]
+    }
+  ]
+}
