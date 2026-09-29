@@ -3,7 +3,7 @@
 > **Ngo Huu Loc (Nick)** · Full-Stack Engineer · UI/UX Craftsman · Systems Architect  
 > Based in Khánh Hòa, Vietnam 🇻🇳
 
-Live site: [https://portfolio-wheat-mu-vqz9640lrt.vercel.app](https://portfolio-wheat-mu-vqz9640lrt.vercel.app)
+Live site: [https://ngohuuloc.vercel.app](https://ngohuuloc.vercel.app)
 
 ---
 
