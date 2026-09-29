@@ -7,6 +7,16 @@ Live site: [https://ngohuuloc.vercel.app](https://ngohuuloc.vercel.app)
 
 ---
 
+## Origin Story
+
+The first version of this portfolio was rough — poor visual design, no performance optimization, nothing that said "I care about craft." It worked, but it didn't represent the work behind it.
+
+At some point I started collecting references: portfolios that felt *alive*, that had personality, that made you want to scroll. [Brittany Chiang's portfolio](https://brittanychiang.com) was one of the ones that stuck. Clean hierarchy, deliberate motion, every detail intentional.
+
+That became the push to rebuild from scratch. What you see now is the result: a single file that ships no framework, runs as a PWA, and tries to do justice to the actual work.
+
+---
+
 ## Overview
 
 Single-file, zero-dependency portfolio built as a Progressive Web App. No framework, no build step — pure HTML, CSS, and vanilla JS packed into one `index.html`.
